@@ -1,17 +1,16 @@
-## Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+## 🤠 Howdy! I'm Peter
 
-<!--
-**PeterHindes/PeterHindes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=DB7BF7&repeat=false&width=435&lines=The+future+is+fast!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+Im an everything developer! Focused on performance and usability. \
+Im currently working with an amazing team at CU Boulder to develop tools for automaing Synthetic Biology. \
+Feel free to reach out with questions and projects. \
+My favorite language is Go. \
+Check out [my personal website](peterhindes.com) for more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterHindes&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterHines&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=PeterHindes)
